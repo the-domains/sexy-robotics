@@ -1,0 +1,14 @@
+layout_spectrum: 0.300730335758999
+typography_spectrum: 0.1623112028464675
+color:
+  brandStrength: 0.4912865918595344
+  lightness: 0.6783224390819669
+  saturation: 0.14034155360423028
+  rhythmicContrast: 0.4281657065730542
+  brandColors:
+    - '#3E454C'
+    - '#2185C5'
+    - '#7ECEFD'
+    - '#FFF6E5'
+    - '#FF7F66'
+name: sexy robotics
