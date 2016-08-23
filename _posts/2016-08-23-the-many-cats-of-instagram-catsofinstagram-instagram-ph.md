@@ -23,17 +23,15 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/catsofinstagram/'
 title: The Many Cats Of Instagram (@catsofinstagram) * Instagram photos and videos
-datePublished: '2016-08-23T17:41:02.932Z'
-dateModified: '2016-08-23T17:40:56.981Z'
+datePublished: '2016-08-23T17:41:22.806Z'
+dateModified: '2016-08-23T17:41:21.933Z'
 description: ''
 via: {}
-starred: false
 sourcePath: _posts/2016-08-23-the-many-cats-of-instagram-catsofinstagram-instagram-ph.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: the-many-cats-of-instagram-catsofinstagram-instagram-ph/index.html
 _type: Photograph
 _context: 'http://schema.org'
 
