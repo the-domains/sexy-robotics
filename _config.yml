@@ -6,9 +6,13 @@ color:
   saturation: 0.14034155360423028
   rhythmicContrast: 0.4281657065730542
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#3E454C'
+    - '#2185C5'
+    - '#7ECEFD'
+    - '#FFF6E5'
+    - '#FF7F66'
 name: sexy robotics
+navigation:
+  - name: Instagram
+    id: 78ef0454-2a03-43d8-9092-02560fb3536b
+    type: content
