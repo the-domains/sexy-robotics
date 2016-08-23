@@ -13,7 +13,7 @@ color:
     - '#FF7F66'
 name: sexy robotics
 navigation:
-  - name: Instagram
+  - name: Instagram!
     id: 78ef0454-2a03-43d8-9092-02560fb3536b
     type: content
   - name: IG
